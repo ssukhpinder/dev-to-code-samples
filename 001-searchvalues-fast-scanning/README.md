@@ -2,7 +2,7 @@
 
 Benchmark comparing `SearchValues<char>` against `string.IndexOfAny` and a manual character loop — dense matches, sparse matches, bigger needle sets, and the per-call `Create` trap.
 
-📖 Article: _link added after publish_
+📖 Article: [When SearchValues&lt;T&gt; Actually Pays Off](https://dev.to/ssukhpinder/when-searchvalues-actually-pays-off-310l)
 
 ## Run it
 

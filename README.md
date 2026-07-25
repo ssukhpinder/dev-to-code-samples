@@ -4,4 +4,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 
 | # | Sample | Article |
 |---|--------|---------|
-| 001 | [SearchValues fast scanning](./001-searchvalues-fast-scanning) | _publishing…_ |
+| 001 | [SearchValues fast scanning](./001-searchvalues-fast-scanning) | [When SearchValues&lt;T&gt; Actually Pays Off](https://dev.to/ssukhpinder/when-searchvalues-actually-pays-off-310l) |
