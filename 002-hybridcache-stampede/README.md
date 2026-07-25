@@ -2,7 +2,7 @@
 
 Self-contained ASP.NET Core demo of a cache stampede: 50 concurrent requests hit a cold cache key, `IMemoryCache.GetOrCreateAsync` runs the database query 50 times, `HybridCache` runs it once. The app starts a minimal API on a random port, hammers its own endpoints with `HttpClient`, and prints how many times the fake database actually got called.
 
-📖 Article: _link added after publish_
+📖 Article: [One Cache Miss, Fifty Database Calls](https://dev.to/ssukhpinder/one-cache-miss-fifty-database-calls-1k5n)
 
 ## Run it
 
