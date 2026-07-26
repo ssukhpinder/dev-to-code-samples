@@ -8,7 +8,7 @@ Self-contained .NET 10 demo that measures when bytes actually leave a minimal AP
 
 The app starts Kestrel on localhost, probes itself with a raw `HttpClient` stream reader, and logs the elapsed time and size of every read — so you can see exactly when each element hit the wire.
 
-📖 Article: _link added after publish_
+📖 Article: [Your JSON Array Was Streaming All Along](https://dev.to/ssukhpinder/your-json-array-was-streaming-all-along-162j)
 
 ## Run it
 
