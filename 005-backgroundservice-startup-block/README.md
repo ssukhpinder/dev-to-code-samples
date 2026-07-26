@@ -11,7 +11,7 @@ The app starts Kestrel on `127.0.0.1:5199`, probes itself with `HttpClient`, and
 
 The project multi-targets `net8.0` and `net10.0` because the results differ: on .NET 8 a synchronous `ExecuteAsync` delays Kestrel by the full warmup time; on .NET 10 it doesn't, because `BackgroundService.StartAsync` now wraps `ExecuteAsync` in `Task.Run`. A synchronous `StartAsync` on a plain `IHostedService` still blocks on both.
 
-📖 Article: _link added after publish_
+📖 Article: [One Task.Run Quietly Killed the BackgroundService Startup Footgun](https://dev.to/ssukhpinder/one-taskrun-quietly-killed-the-backgroundservice-startup-footgun-4b70)
 
 ## Run it
 
