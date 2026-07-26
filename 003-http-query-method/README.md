@@ -2,7 +2,7 @@
 
 Self-contained ASP.NET Core 10 demo of RFC 10008's `QUERY` method: a safe, idempotent, cacheable request that carries a body. One minimal API exposes the same product search as `GET`, `POST` and `QUERY`, then the app runs an `HttpClient` harness against itself and prints what actually happened.
 
-📖 Article: _link added after publish_
+📖 Article: [600 Filters and a 414: The New QUERY Method in .NET 10](https://dev.to/ssukhpinder/600-filters-and-a-414-the-new-query-method-in-net-10-5bib)
 
 ## Run it
 
