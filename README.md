@@ -9,3 +9,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 003 | [HTTP QUERY method](./003-http-query-method) | [600 Filters and a 414: The New QUERY Method in .NET 10](https://dev.to/ssukhpinder/600-filters-and-a-414-the-new-query-method-in-net-10-5bib) |
 | 004 | [JSON streaming vs SSE](./004-json-streaming-vs-sse) | [Your JSON Array Was Streaming All Along](https://dev.to/ssukhpinder/your-json-array-was-streaming-all-along-162j) |
 | 005 | [BackgroundService startup block](./005-backgroundservice-startup-block) | [One Task.Run Quietly Killed the BackgroundService Startup Footgun](https://dev.to/ssukhpinder/one-taskrun-quietly-killed-the-backgroundservice-startup-footgun-4b70) |
+| 006 | [Bounded channel backpressure](./006-bounded-channel-backpressure) | [One Unbounded Channel, 188 MB of Regret](https://dev.to/ssukhpinder/one-unbounded-channel-188-mb-of-regret-598f) |

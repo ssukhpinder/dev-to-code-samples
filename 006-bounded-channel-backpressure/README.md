@@ -16,4 +16,4 @@ dotnet run -c Release
 
 Requires .NET 10 SDK (works on .NET 8/9 too if you retarget the `.csproj`).
 
-📖 Article: _link added after publish_
+📖 Article: [One Unbounded Channel, 188 MB of Regret](https://dev.to/ssukhpinder/one-unbounded-channel-188-mb-of-regret-598f)
