@@ -10,3 +10,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 004 | [JSON streaming vs SSE](./004-json-streaming-vs-sse) | [Your JSON Array Was Streaming All Along](https://dev.to/ssukhpinder/your-json-array-was-streaming-all-along-162j) |
 | 005 | [BackgroundService startup block](./005-backgroundservice-startup-block) | [One Task.Run Quietly Killed the BackgroundService Startup Footgun](https://dev.to/ssukhpinder/one-taskrun-quietly-killed-the-backgroundservice-startup-footgun-4b70) |
 | 006 | [Bounded channel backpressure](./006-bounded-channel-backpressure) | [One Unbounded Channel, 188 MB of Regret](https://dev.to/ssukhpinder/one-unbounded-channel-188-mb-of-regret-598f) |
+| 007 | [Request timeout cooperation](./007-request-timeout-cooperation) | [Your Request Timeout Is a Polite Suggestion](https://dev.to/ssukhpinder/your-request-timeout-is-a-polite-suggestion-3c6c) |

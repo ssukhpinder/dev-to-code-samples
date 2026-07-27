@@ -21,4 +21,4 @@ The app self-probes its own endpoints with `HttpClient` and prints status codes 
 
 Requires .NET 10 SDK (the middleware itself exists since .NET 8 — retarget the `.csproj` if needed).
 
-📖 Article: _link added after publish_
+📖 Article: [Your Request Timeout Is a Polite Suggestion](https://dev.to/ssukhpinder/your-request-timeout-is-a-polite-suggestion-3c6c)
