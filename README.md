@@ -12,3 +12,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 006 | [Bounded channel backpressure](./006-bounded-channel-backpressure) | [One Unbounded Channel, 188 MB of Regret](https://dev.to/ssukhpinder/one-unbounded-channel-188-mb-of-regret-598f) |
 | 007 | [Request timeout cooperation](./007-request-timeout-cooperation) | [Your Request Timeout Is a Polite Suggestion](https://dev.to/ssukhpinder/your-request-timeout-is-a-polite-suggestion-3c6c) |
 | 008 | [Task.WhenEach drain](./008-task-wheneach-drain) | [The WhenAny Drain Loop Can Finally Retire](https://dev.to/ssukhpinder/the-whenany-drain-loop-can-finally-retire-144c) |
+| 009 | [EF Core split query](./009-efcore-split-query) | [Two Includes, 2,880 Rows: EF Core's Quiet Cartesian Tax](https://dev.to/ssukhpinder/two-includes-2880-rows-ef-cores-quiet-cartesian-tax-2b9a) |

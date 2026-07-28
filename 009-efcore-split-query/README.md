@@ -26,4 +26,4 @@ dotnet run -c Release -- --sql   # also dump the captured SQL per scenario
 Requires the .NET 10 SDK. Uses a local SQLite file (`catalog.db`), recreated on
 every run.
 
-📖 Article: _link added after publish_
+📖 Article: [Two Includes, 2,880 Rows: EF Core's Quiet Cartesian Tax](https://dev.to/ssukhpinder/two-includes-2880-rows-ef-cores-quiet-cartesian-tax-2b9a)
