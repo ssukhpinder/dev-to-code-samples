@@ -16,4 +16,4 @@ dotnet run -c Release
 
 Requires the .NET 10 SDK.
 
-📖 Article: _link added after publish_
+📖 Article: [The WhenAny Drain Loop Can Finally Retire](https://dev.to/ssukhpinder/the-whenany-drain-loop-can-finally-retire-144c)
