@@ -17,4 +17,4 @@ dotnet run -c Release
 
 Requires .NET 10.
 
-📖 Article: _link added after publish_
+📖 Article: [The Freeze Fee: What FrozenDictionary Charges and When It Pays](https://dev.to/ssukhpinder/the-freeze-fee-what-frozendictionary-charges-and-when-it-pays-14ih)

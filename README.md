@@ -14,3 +14,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 008 | [Task.WhenEach drain](./008-task-wheneach-drain) | [The WhenAny Drain Loop Can Finally Retire](https://dev.to/ssukhpinder/the-whenany-drain-loop-can-finally-retire-144c) |
 | 009 | [EF Core split query](./009-efcore-split-query) | [Two Includes, 2,880 Rows: EF Core's Quiet Cartesian Tax](https://dev.to/ssukhpinder/two-includes-2880-rows-ef-cores-quiet-cartesian-tax-2b9a) |
 | 010 | [Minimal API validation](./010-minimal-api-validation) | [The 400 I Didn't Have to Write](https://dev.to/ssukhpinder/the-400-i-didnt-have-to-write-2gho) |
+| 011 | [FrozenDictionary lookup](./011-frozen-dictionary-lookup) | [The Freeze Fee: What FrozenDictionary Charges and When It Pays](https://dev.to/ssukhpinder/the-freeze-fee-what-frozendictionary-charges-and-when-it-pays-14ih) |
