@@ -27,4 +27,4 @@ dotnet run -c Release
 Requires the .NET 10 SDK. No external dependencies — `AddValidation` ships in
 the shared framework.
 
-📖 Article: _link added after publish_
+📖 Article: [The 400 I Didn't Have to Write](https://dev.to/ssukhpinder/the-400-i-didnt-have-to-write-2gho)
