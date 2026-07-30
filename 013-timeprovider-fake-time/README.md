@@ -18,4 +18,4 @@ dotnet test -c Release --logger "console;verbosity=detailed"
 
 Watch the per-test durations: the real-clock retry test takes ~7 s (1s + 2s + 4s of genuine waiting); the identical scenario against the fake clock finishes in tens of milliseconds.
 
-📖 Article: _link added after publish_
+📖 Article: [The Test That Slept and the Test That Never Woke Up](https://dev.to/ssukhpinder/the-test-that-slept-and-the-test-that-never-woke-up-1i6j)
