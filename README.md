@@ -15,3 +15,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 009 | [EF Core split query](./009-efcore-split-query) | [Two Includes, 2,880 Rows: EF Core's Quiet Cartesian Tax](https://dev.to/ssukhpinder/two-includes-2880-rows-ef-cores-quiet-cartesian-tax-2b9a) |
 | 010 | [Minimal API validation](./010-minimal-api-validation) | [The 400 I Didn't Have to Write](https://dev.to/ssukhpinder/the-400-i-didnt-have-to-write-2gho) |
 | 011 | [FrozenDictionary lookup](./011-frozen-dictionary-lookup) | [The Freeze Fee: What FrozenDictionary Charges and When It Pays](https://dev.to/ssukhpinder/the-freeze-fee-what-frozendictionary-charges-and-when-it-pays-14ih) |
+| 012 | [Rate limit window burst](./012-rate-limit-window-burst) | [19 Requests Through a 10-Request Limit](https://dev.to/ssukhpinder/19-requests-through-a-10-request-limit-59g9) |

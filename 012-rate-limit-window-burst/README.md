@@ -19,4 +19,4 @@ dotnet run -c Release
 
 Takes ~45 seconds (it has to sit through two real 10-second windows per policy). Requires the .NET 10 SDK (the rate limiting middleware itself has been in the box since .NET 7 — retarget the `.csproj` if needed).
 
-📖 Article: _link added after publish_
+📖 Article: [19 Requests Through a 10-Request Limit](https://dev.to/ssukhpinder/19-requests-through-a-10-request-limit-59g9)
