@@ -20,3 +20,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 014 | [IExceptionHandler chain](./014-iexceptionhandler-chain) | [IExceptionHandler Chain]() |
 | 015 | [MCP stdio logging contract](./015-mcp-stdio-logging) | _MCP Server Debugging: Keep stdout Clean in stdio Servers (draft)_ |
 | 016 | [File-based C# scripts](./016-file-based-csharp) | [My Shell Scripts Speak C# Now](https://dev.to/ssukhpinder/my-shell-scripts-speak-c-now-hka) |
+| 018 | [ASP.NET Core 10 JSON Patch allowlist](./018-json-patch-allowlist) | _ASP.NET Core 10 JSON Patch Security: Validate Before `ApplyTo` (draft)_ |
