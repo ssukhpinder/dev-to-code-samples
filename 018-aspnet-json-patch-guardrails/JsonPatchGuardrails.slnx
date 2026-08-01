@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/JsonPatchGuardrails/JsonPatchGuardrails.csproj" />
+  <Project Path="tests/JsonPatchGuardrails.Tests/JsonPatchGuardrails.Tests.csproj" />
+</Solution>
