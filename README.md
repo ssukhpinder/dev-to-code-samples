@@ -19,3 +19,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 013 | [TimeProvider fake clock](./013-timeprovider-fake-time) | [The Test That Slept and the Test That Never Woke Up](https://dev.to/ssukhpinder/the-test-that-slept-and-the-test-that-never-woke-up-1i6j) |
 | 014 | [TimeProvider fake clock](./014-iexceptionhandler-chain) | [IExceptionHandler Chain]() |
 | 015 | [MCP stdio logging contract](./015-mcp-stdio-logging) | _MCP Server Debugging: Keep stdout Clean in stdio Servers (draft)_ |
+| 017 | [MCP cacheScope isolation](./017-mcp-cache-scope) | _MCP cacheScope: Stop Private Results Leaking Across Users (draft)_ |
