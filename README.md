@@ -20,3 +20,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 014 | [IExceptionHandler chain](./014-iexceptionhandler-chain) | [IExceptionHandler Chain]() |
 | 015 | [MCP stdio logging contract](./015-mcp-stdio-logging) | _MCP Server Debugging: Keep stdout Clean in stdio Servers (draft)_ |
 | 016 | [File-based C# scripts](./016-file-based-csharp) | [My Shell Scripts Speak C# Now](https://dev.to/ssukhpinder/my-shell-scripts-speak-c-now-hka) |
+| 019 | [Official OpenAI Terraform provider](./019-openai-terraform-project) | _Official OpenAI Terraform Provider: Create Projects Without Leaking Admin Keys (draft)_ |
