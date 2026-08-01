@@ -21,4 +21,4 @@ chmod +x biggest.cs && ./biggest.cs /path/to/scan 10
 
 Requires the .NET 10 SDK.
 
-📖 Article: _link added after publish_
+📖 Article: [My Shell Scripts Speak C# Now](https://dev.to/ssukhpinder/my-shell-scripts-speak-c-now-hka)
