@@ -17,3 +17,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 011 | [FrozenDictionary lookup](./011-frozen-dictionary-lookup) | [The Freeze Fee: What FrozenDictionary Charges and When It Pays](https://dev.to/ssukhpinder/the-freeze-fee-what-frozendictionary-charges-and-when-it-pays-14ih) |
 | 012 | [Rate limit window burst](./012-rate-limit-window-burst) | [19 Requests Through a 10-Request Limit](https://dev.to/ssukhpinder/19-requests-through-a-10-request-limit-59g9) |
 | 013 | [TimeProvider fake clock](./013-timeprovider-fake-time) | [The Test That Slept and the Test That Never Woke Up](https://dev.to/ssukhpinder/the-test-that-slept-and-the-test-that-never-woke-up-1i6j) |
+| 015 | [MCP stdio logging contract](./015-mcp-stdio-logging) | _MCP Server Debugging: Keep stdout Clean in stdio Servers (draft)_ |
