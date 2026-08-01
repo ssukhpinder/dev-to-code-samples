@@ -19,3 +19,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 013 | [TimeProvider fake clock](./013-timeprovider-fake-time) | [The Test That Slept and the Test That Never Woke Up](https://dev.to/ssukhpinder/the-test-that-slept-and-the-test-that-never-woke-up-1i6j) |
 | 014 | [TimeProvider fake clock](./014-iexceptionhandler-chain) | [IExceptionHandler Chain]() |
 | 015 | [MCP stdio logging contract](./015-mcp-stdio-logging) | _MCP Server Debugging: Keep stdout Clean in stdio Servers (draft)_ |
+| 016 | [OpenAI PTC continuation loop](./016-openai-ptc-loop) | _OpenAI Programmatic Tool Calling: Stop Dropping `program` Items (draft)_ |
