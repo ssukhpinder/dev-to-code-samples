@@ -20,3 +20,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 014 | [IExceptionHandler chain](./014-iexceptionhandler-chain) | [IExceptionHandler Chain]() |
 | 015 | [MCP stdio logging contract](./015-mcp-stdio-logging) | _MCP Server Debugging: Keep stdout Clean in stdio Servers (draft)_ |
 | 016 | [File-based C# scripts](./016-file-based-csharp) | [My Shell Scripts Speak C# Now](https://dev.to/ssukhpinder/my-shell-scripts-speak-c-now-hka) |
+| 017 | [GeneratedRegex cold start](./017-generated-regex-cold-start) | _Make [GeneratedRegex] Your Default (draft — link pending)_ |
