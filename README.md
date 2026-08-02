@@ -23,3 +23,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 017 | [GeneratedRegex cold start](./017-generated-regex-cold-start) | _Make [GeneratedRegex] Your Default (draft — link pending)_ |
 | 018 | [Keyed DI services](./018-keyed-di-services) | [The Factory Class I Finally Deleted](https://dev.to/ssukhpinder/the-factory-class-i-finally-deleted-3oap) |
 | 019 | [ExecuteUpdate vs load-modify-save](./019-efcore-execute-update) | [I Loaded 8,956 Rows to Flip One Boolean](https://dev.to/ssukhpinder/i-loaded-8956-rows-to-flip-one-boolean-596e) |
+| 020 | [MCP protocol negotiation](./020-mcp-protocol-negotiation) | _MCP C# SDK Protocol Negotiation: Pin 2026-07-28 When Fallback Is Unsafe (draft)_ |
