@@ -20,4 +20,4 @@ dotnet run -c Release
 Requires the .NET 10 SDK. Uses EF Core 10 with SQLite (a local `orders.db`
 file is created next to the binary; deleted and reseeded on every run).
 
-📖 Article: _link added after publish_
+📖 Article: [I Loaded 8,956 Rows to Flip One Boolean](https://dev.to/ssukhpinder/i-loaded-8956-rows-to-flip-one-boolean-596e)
