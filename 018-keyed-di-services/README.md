@@ -12,4 +12,4 @@ dotnet run -c Release
 
 The app starts on `127.0.0.1:5199`, probes its own endpoints with `HttpClient`, prints the exchanges plus the container diagnostics, and exits.
 
-📖 Article: _link added after publish_
+📖 Article: [The Factory Class I Finally Deleted](https://dev.to/ssukhpinder/the-factory-class-i-finally-deleted-3oap)
