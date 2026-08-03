@@ -25,4 +25,4 @@ Requires the .NET 10 SDK. Retry delays and breaker thresholds are shrunk from
 the production defaults so the whole demo finishes in about 12 seconds — the
 shapes are unchanged.
 
-📖 Article: _link added after publish_
+📖 Article: [One Outage, Four Times the Traffic](https://dev.to/ssukhpinder/one-outage-four-times-the-traffic-5374)

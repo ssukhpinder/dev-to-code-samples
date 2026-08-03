@@ -23,3 +23,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 017 | [GeneratedRegex cold start](./017-generated-regex-cold-start) | _Make [GeneratedRegex] Your Default (draft — link pending)_ |
 | 018 | [Keyed DI services](./018-keyed-di-services) | [The Factory Class I Finally Deleted](https://dev.to/ssukhpinder/the-factory-class-i-finally-deleted-3oap) |
 | 019 | [ExecuteUpdate vs load-modify-save](./019-efcore-execute-update) | [I Loaded 8,956 Rows to Flip One Boolean](https://dev.to/ssukhpinder/i-loaded-8956-rows-to-flip-one-boolean-596e) |
+| 020 | [HttpClient retry storm](./020-httpclient-retry-storm) | [One Outage, Four Times the Traffic](https://dev.to/ssukhpinder/one-outage-four-times-the-traffic-5374) |
