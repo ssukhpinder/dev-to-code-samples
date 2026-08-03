@@ -22,4 +22,4 @@ curl localhost:5099/options ; curl localhost:5099/snapshot ; curl localhost:5099
 curl localhost:5099/bench
 ```
 
-📖 Article: _link added after publish_
+📖 Article: [The Feature Flag That Needed a Restart](https://dev.to/ssukhpinder/the-feature-flag-that-needed-a-restart-306g)
