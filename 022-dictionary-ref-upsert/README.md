@@ -18,4 +18,4 @@ dotnet run -c Release
 
 Needs the .NET 10 SDK. Everything is in `Program.cs`.
 
-📖 Article: _link added after publish_
+📖 Article: [I Hashed Every Word Twice to Count It Once](https://dev.to/ssukhpinder/i-hashed-every-word-twice-to-count-it-once-1mg9)

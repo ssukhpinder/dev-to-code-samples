@@ -25,3 +25,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 019 | [ExecuteUpdate vs load-modify-save](./019-efcore-execute-update) | [I Loaded 8,956 Rows to Flip One Boolean](https://dev.to/ssukhpinder/i-loaded-8956-rows-to-flip-one-boolean-596e) |
 | 020 | [HttpClient retry storm](./020-httpclient-retry-storm) | [One Outage, Four Times the Traffic](https://dev.to/ssukhpinder/one-outage-four-times-the-traffic-5374) |
 | 021 | [Options lifetimes and reload](./021-options-reload-lifetimes) | [The Feature Flag That Needed a Restart](https://dev.to/ssukhpinder/the-feature-flag-that-needed-a-restart-306g) |
+| 022 | [Dictionary ref upsert](./022-dictionary-ref-upsert) | [I Hashed Every Word Twice to Count It Once](https://dev.to/ssukhpinder/i-hashed-every-word-twice-to-count-it-once-1mg9) |
