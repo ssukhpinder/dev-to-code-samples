@@ -23,4 +23,4 @@ Requires the .NET 10 SDK. `GetAlternateLookup` needs a comparer that implements
 `IAlternateEqualityComparer<ReadOnlySpan<char>, string>` — the built-in ordinal and
 ordinal-ignore-case string comparers qualify.
 
-📖 Article: _link added after publish_
+📖 Article: [7.8 MB of Keys I Allocated Just to Throw Away](https://dev.to/ssukhpinder/78-mb-of-keys-i-allocated-just-to-throw-away-50mn)
