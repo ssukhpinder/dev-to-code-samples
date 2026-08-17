@@ -1,0 +1,7 @@
+using Xunit.Sdk;
+using Xunit.v3;
+
+[assembly: Parallelization(
+    Mode = ParallelMode.All,
+    MaxThreads = 2,
+    Algorithm = ParallelAlgorithm.Conservative)]
