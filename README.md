@@ -34,3 +34,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 028 | [WebSocket JSON message stream](./028-websocket-json-message) | _.NET 10 WebSocketStream JSON Messages: Stop Waiting for Socket Close (draft)_ |
 | 029 | [.NET 10 async ZIP cleanup](./029-async-zip-cleanup) | _.NET 10 Async ZIP Extraction: Clean Up After Cancellation (draft)_ |
 | 030 | [MCP header validation](./030-mcp-header-validation) | _MCP x-mcp-header Validation: Keep Bad Tool Schemas Out of tools/list (draft)_ |
+| 031 | [Handled exception diagnostics](./031-handled-exception-diagnostics) | _ASP.NET Core 10 Handled Exception Diagnostics: Keep Important Errors Visible (draft)_ |
