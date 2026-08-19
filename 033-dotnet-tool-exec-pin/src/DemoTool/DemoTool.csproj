@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <AnalysisLevel>latest</AnalysisLevel>
+    <PackAsTool>true</PackAsTool>
+    <ToolCommandName>devto-tool-exec-demo</ToolCommandName>
+    <PackageId>Sukhpinder.DevTo.ToolExec.Demo</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Sukhpinder Singh</Authors>
+    <Description>Offline demonstration tool for dotnet tool exec version pinning.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/ssukhpinder/dev-to-code-samples</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="../../README.md" Pack="true" PackagePath="/" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <TestingPlatformCommandLineArguments Condition="'$(UsingMSTestSdk)' == 'true'">$(TestingPlatformCommandLineArguments) $(MSTestSpecificArgs)</TestingPlatformCommandLineArguments>
+    <TestingPlatformCommandLineArguments Condition="'$(UsingMSTestSdk)' != 'true'">$(TestingPlatformCommandLineArguments) $(XUnitSpecificArgs)</TestingPlatformCommandLineArguments>
+  </PropertyGroup>
+</Project>
