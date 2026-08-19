@@ -38,3 +38,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 032 | [MTP exit-code routing](./032-mtp-exit-code-5) | _Microsoft.Testing.Platform Exit Code 5: Route Filters in Mixed Test Solutions (draft)_ |
 | 033 | [.NET tool exec version pinning](./033-dotnet-tool-exec-pin) | _.NET 10 dotnet tool exec: Pin the Version and Feed in CI (draft)_ |
 | 034 | [Authentication metric outcomes](./034-authentication-metrics) | _ASP.NET Core 10 Authentication Metrics: Distinguish No Result from Failure (draft)_ |
+| 035 | [xUnit 4 full parallelization](./035-xunit-4-parallel-mode) | _xUnit 4 ParallelMode.All: Protect Shared State from Test Races (draft)_ |
