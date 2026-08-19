@@ -27,4 +27,8 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 021 | [Options lifetimes and reload](./021-options-reload-lifetimes) | [The Feature Flag That Needed a Restart](https://dev.to/ssukhpinder/the-feature-flag-that-needed-a-restart-306g) |
 | 022 | [Dictionary ref upsert](./022-dictionary-ref-upsert) | [I Hashed Every Word Twice to Count It Once](https://dev.to/ssukhpinder/i-hashed-every-word-twice-to-count-it-once-1mg9) |
 | 023 | [Dictionary alternate lookup](./023-dictionary-alternate-lookup) | [7.8 MB of Keys I Allocated Just to Throw Away](https://dev.to/ssukhpinder/78-mb-of-keys-i-allocated-just-to-throw-away-50mn) |
+| 024 | [MCP stateless elicitation](./024-mcp-input-required) | _MCP InputRequiredException: Fix Stateless C# Elicitation (draft - link pending)_ |
+| 025 | [MTP crash TRX evidence](./025-mtp-crash-trx) | _Microsoft.Testing.Platform Crash-Resilient TRX: Keep Evidence When the Host Dies (draft - link pending)_ |
+| 026 | [.NET 10 strict JSON input](./026-strict-json-input) | _.NET 10 Strict JSON Input: Reject Ambiguous API Payloads (draft)_ |
+| 027 | [EF Core parameterized collections](./027-efcore-parameterized-collections) | _EF Core 10 Parameterized Collections: Catch SQL Shape Changes Before Production (draft - link pending)_ |
 | 028 | [WebSocket JSON message stream](./028-websocket-json-message) | _.NET 10 WebSocketStream JSON Messages: Stop Waiting for Socket Close (draft)_ |

@@ -1,0 +1,13 @@
+{
+  "platformOptions": {
+    "resultDirectory": "./TestResults"
+  },
+  "mstest": {
+    "execution": {
+      "orderTestsByNameInClass": true
+    },
+    "parallelism": {
+      "enabled": false
+    }
+  }
+}
