@@ -39,3 +39,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 033 | [.NET tool exec version pinning](./033-dotnet-tool-exec-pin) | _.NET 10 dotnet tool exec: Pin the Version and Feed in CI (draft)_ |
 | 034 | [Authentication metric outcomes](./034-authentication-metrics) | _ASP.NET Core 10 Authentication Metrics: Distinguish No Result from Failure (draft)_ |
 | 035 | [xUnit 4 full parallelization](./035-xunit-4-parallel-mode) | _xUnit 4 ParallelMode.All: Protect Shared State from Test Races (draft)_ |
+| 036 | [MCP C# SDK hybrid sessions](./036-mcp-hybrid-sessions) | _MCP C# SDK Hybrid Sessions: Serve Old and New Clients on One Endpoint (link pending)_ |
