@@ -33,3 +33,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 027 | [EF Core parameterized collections](./027-efcore-parameterized-collections) | _EF Core 10 Parameterized Collections: Catch SQL Shape Changes Before Production (draft - link pending)_ |
 | 028 | [WebSocket JSON message stream](./028-websocket-json-message) | _.NET 10 WebSocketStream JSON Messages: Stop Waiting for Socket Close (draft)_ |
 | 029 | [.NET 10 async ZIP cleanup](./029-async-zip-cleanup) | _.NET 10 Async ZIP Extraction: Clean Up After Cancellation (draft)_ |
+| 030 | [MCP header validation](./030-mcp-header-validation) | _MCP x-mcp-header Validation: Keep Bad Tool Schemas Out of tools/list (draft)_ |
