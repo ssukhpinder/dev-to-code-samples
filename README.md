@@ -41,3 +41,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 035 | [xUnit 4 full parallelization](./035-xunit-4-parallel-mode) | _xUnit 4 ParallelMode.All: Protect Shared State from Test Races (draft)_ |
 | 036 | [MCP C# SDK hybrid sessions](./036-mcp-hybrid-sessions) | _MCP C# SDK Hybrid Sessions: Serve Old and New Clients on One Endpoint (link pending)_ |
 | 037 | [Microsoft.Data.Sqlite 10 UTC handling](./037-sqlite-utc-handling) | _Microsoft.Data.Sqlite 10 UTC Handling: Find Ambiguous Timestamps Before Upgrade (draft - link pending)_ |
+| 038 | [.NET 10 numeric string sorting](./038-numeric-string-sorting) | _.NET 10 Numeric String Sorting: Put File 10 After File 9 (draft - link pending)_ |
