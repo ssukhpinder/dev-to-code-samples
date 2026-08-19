@@ -35,3 +35,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 029 | [.NET 10 async ZIP cleanup](./029-async-zip-cleanup) | _.NET 10 Async ZIP Extraction: Clean Up After Cancellation (draft)_ |
 | 030 | [MCP header validation](./030-mcp-header-validation) | _MCP x-mcp-header Validation: Keep Bad Tool Schemas Out of tools/list (draft)_ |
 | 031 | [Handled exception diagnostics](./031-handled-exception-diagnostics) | _ASP.NET Core 10 Handled Exception Diagnostics: Keep Important Errors Visible (draft)_ |
+| 032 | [MTP exit-code routing](./032-mtp-exit-code-5) | _Microsoft.Testing.Platform Exit Code 5: Route Filters in Mixed Test Solutions (draft)_ |
