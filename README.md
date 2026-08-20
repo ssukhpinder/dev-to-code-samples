@@ -45,3 +45,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 039 | [EF Core named query filters](./039-efcore-named-query-filters) | _EF Core 10 Named Query Filters: Show Deleted Rows Without Leaking Tenants (draft - link pending)_ |
 | 040 | [.NET 10 ISO week DateOnly](./040-iso-week-dateonly) | _.NET 10 ISO Week DateOnly: Stop Grouping December into the Wrong Year (draft - link pending)_ |
 | 041 | [PipeReader JSON converter](./041-pipereader-json-converter) | _ASP.NET Core 10 PipeReader JsonConverter: Stop Losing Split JSON Tokens (draft - link pending)_ |
+| 042 | [AES KeyWrap with Padding](./042-aes-key-wrap-padding) | _.NET 10 AES KeyWrap with Padding: Reject Tampered Wrapped Keys (draft - link pending)_ |
