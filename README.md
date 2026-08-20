@@ -54,3 +54,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 048 | [.NET 10 PKCS#12 export policy](./048-pkcs12-export-policy) | _.NET 10 PKCS#12 Export: Make AES-256 Explicit and Legacy Opt-In (draft - link pending)_ |
 | 049 | [MCP deterministic tools/list](./049-mcp-deterministic-tools-list) | _MCP Deterministic tools/list: Stop Catalog Order from Busting Prompt Caches (draft - link pending)_ |
 | 050 | [EF Core 10 raw SQL analyzer](./050-efcore-raw-sql-analyzer) | _EF Core 10 Raw SQL Analyzer: Catch Concatenation Before It Ships (draft - link pending)_ |
+| 051 | [.NET 10 CLI schema contract](./051-dotnet-cli-schema-contract) | _.NET 10 --cli-schema: Catch CLI Contract Drift Without Parsing Help Text (draft - link pending)_ |
