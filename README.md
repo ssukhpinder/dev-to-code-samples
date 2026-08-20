@@ -59,3 +59,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 053 | [ASP.NET Core 10 KnownIPNetworks](./053-known-ip-networks) | _ASP.NET Core 10 KnownIPNetworks: Reject Forwarded Headers from the Wrong Subnet (draft - link pending)_ |
 | 054 | [.NET 10 PEM UTF-8 scanner](./054-pem-utf8-scanner) | _.NET 10 PemEncoding.FindUtf8: Parse PEM Bytes Without a String Detour (draft - link pending)_ |
 | 055 | [ASP.NET Core 10 local redirect policy](./055-local-redirect-policy) | _ASP.NET Core 10 IsLocalUrl: Reject Open Redirects Before Login Handoff (draft - link pending)_ |
+| 056 | [MCP C# SDK array tool outputs](./056-mcp-array-tool-outputs) | _MCP C# SDK Array Tool Outputs: Stop Looking for a `result` Wrapper (draft - link pending)_ |
