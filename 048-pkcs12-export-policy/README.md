@@ -13,7 +13,7 @@ The console app creates a self-signed certificate and private key in memory, the
 - `Pbes2Aes256Sha256` for current readers; and
 - `Pkcs12TripleDesSha1` only for a documented legacy-reader requirement.
 
-The verifier finds the expected DER-encoded algorithm identifiers, rejects identifiers from the opposite profile, re-imports both artifacts with their private key, and proves that a wrong password is rejected. It never writes a PFX, certificate, or private key to disk.
+Against this controlled fixture, the verifier finds the expected DER-encoded algorithm identifiers, rejects identifiers from the opposite profile, re-imports both artifacts with their private key, and proves that a wrong password is rejected. It never writes a PFX, certificate, or private key to disk.
 
 ## Prerequisites and setup
 
@@ -66,6 +66,8 @@ The project targets `net10.0` and uses only installed runtime libraries. Restore
 AES-256/SHA-256 protects the exported container; it doesn't validate certificate trust, choose a safe storage location, rotate the password, or control who can read the private key after import. Treat the PFX and its password as separate secrets and validate the certificate chain, purpose, identity, and lifetime at the consumption boundary.
 
 Some old readers don't understand PBES2 with AES-256/SHA-256. Use the legacy profile only after identifying and testing that reader, document the exception, and plan its removal. Platform cryptographic policy can also disable legacy algorithms, so compatibility isn't guaranteed merely because the enum exists.
+
+The sample's `ContainsOid` helper searches for a DER-encoded OID byte sequence in a controlled artifact. It is useful as a narrow regression assertion here, but it isn't a structural PKCS#12 parser and must not be used to classify arbitrary production PFX files. An OID can also appear in an embedded certificate or other data.
 
 Primary references:
 

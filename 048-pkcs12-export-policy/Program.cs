@@ -96,6 +96,7 @@ static byte[] ExportForReader(
 
 static bool ContainsOid(ReadOnlySpan<byte> encoded, string oid)
 {
+    // This is a controlled-fixture regression check, not a structural PFX parser.
     var writer = new AsnWriter(AsnEncodingRules.DER);
     writer.WriteObjectIdentifier(oid);
     return encoded.IndexOf(writer.Encode()) >= 0;
