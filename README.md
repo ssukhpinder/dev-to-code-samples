@@ -52,3 +52,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 046 | [ASP.NET Core 10 OpenAPI contract tests](./046-openapi-contract-tests) | _ASP.NET Core 10 OpenAPI Contract Tests: Inspect the Document Without Starting Kestrel (draft - link pending)_ |
 | 047 | [EF Core 10 LeftJoin contract](./047-efcore-leftjoin-contract) | _EF Core 10 LeftJoin: Keep Missing Relationships Without the GroupJoin Pattern (draft - link pending)_ |
 | 048 | [.NET 10 PKCS#12 export policy](./048-pkcs12-export-policy) | _.NET 10 PKCS#12 Export: Make AES-256 Explicit and Legacy Opt-In (draft - link pending)_ |
+| 049 | [MCP deterministic tools/list](./049-mcp-deterministic-tools-list) | _MCP Deterministic tools/list: Stop Catalog Order from Busting Prompt Caches (draft - link pending)_ |
