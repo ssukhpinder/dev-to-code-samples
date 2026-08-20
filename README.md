@@ -57,3 +57,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 051 | [.NET 10 CLI schema contract](./051-dotnet-cli-schema-contract) | _.NET 10 --cli-schema: Catch CLI Contract Drift Without Parsing Help Text (draft - link pending)_ |
 | 052 | [EF Core 10 inlined-constant log redaction](./052-efcore-log-redaction) | _EF Core 10 Log Redaction: Keep Inlined Constants Out of Production Logs (draft - link pending)_ |
 | 053 | [ASP.NET Core 10 KnownIPNetworks](./053-known-ip-networks) | _ASP.NET Core 10 KnownIPNetworks: Reject Forwarded Headers from the Wrong Subnet (draft - link pending)_ |
+| 054 | [.NET 10 PEM UTF-8 scanner](./054-pem-utf8-scanner) | _.NET 10 PemEncoding.FindUtf8: Parse PEM Bytes Without a String Detour (draft - link pending)_ |
