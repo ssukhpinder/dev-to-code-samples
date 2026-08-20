@@ -53,3 +53,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 047 | [EF Core 10 LeftJoin contract](./047-efcore-leftjoin-contract) | _EF Core 10 LeftJoin: Keep Missing Relationships Without the GroupJoin Pattern (draft - link pending)_ |
 | 048 | [.NET 10 PKCS#12 export policy](./048-pkcs12-export-policy) | _.NET 10 PKCS#12 Export: Make AES-256 Explicit and Legacy Opt-In (draft - link pending)_ |
 | 049 | [MCP deterministic tools/list](./049-mcp-deterministic-tools-list) | _MCP Deterministic tools/list: Stop Catalog Order from Busting Prompt Caches (draft - link pending)_ |
+| 050 | [EF Core 10 raw SQL analyzer](./050-efcore-raw-sql-analyzer) | _EF Core 10 Raw SQL Analyzer: Catch Concatenation Before It Ships (draft - link pending)_ |
