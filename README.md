@@ -58,3 +58,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 052 | [EF Core 10 inlined-constant log redaction](./052-efcore-log-redaction) | _EF Core 10 Log Redaction: Keep Inlined Constants Out of Production Logs (draft - link pending)_ |
 | 053 | [ASP.NET Core 10 KnownIPNetworks](./053-known-ip-networks) | _ASP.NET Core 10 KnownIPNetworks: Reject Forwarded Headers from the Wrong Subnet (draft - link pending)_ |
 | 054 | [.NET 10 PEM UTF-8 scanner](./054-pem-utf8-scanner) | _.NET 10 PemEncoding.FindUtf8: Parse PEM Bytes Without a String Detour (draft - link pending)_ |
+| 055 | [ASP.NET Core 10 local redirect policy](./055-local-redirect-policy) | _ASP.NET Core 10 IsLocalUrl: Reject Open Redirects Before Login Handoff (draft - link pending)_ |
