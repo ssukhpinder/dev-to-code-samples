@@ -55,3 +55,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 049 | [MCP deterministic tools/list](./049-mcp-deterministic-tools-list) | _MCP Deterministic tools/list: Stop Catalog Order from Busting Prompt Caches (draft - link pending)_ |
 | 050 | [EF Core 10 raw SQL analyzer](./050-efcore-raw-sql-analyzer) | _EF Core 10 Raw SQL Analyzer: Catch Concatenation Before It Ships (draft - link pending)_ |
 | 051 | [.NET 10 CLI schema contract](./051-dotnet-cli-schema-contract) | _.NET 10 --cli-schema: Catch CLI Contract Drift Without Parsing Help Text (draft - link pending)_ |
+| 052 | [EF Core 10 inlined-constant log redaction](./052-efcore-log-redaction) | _EF Core 10 Log Redaction: Keep Inlined Constants Out of Production Logs (draft - link pending)_ |
