@@ -49,3 +49,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 043 | [SHA-256 certificate thumbprint lookup](./043-sha256-certificate-thumbprint) | _.NET 10 SHA-256 Certificate Thumbprints: Stop Searching with SHA-1 (draft - link pending)_ |
 | 044 | [.NET 10 UTF-8 hex conversion](./044-utf8-hex-conversion) | _.NET 10 UTF-8 Hex Conversion: Parse Wire IDs Without a String Detour (draft - link pending)_ |
 | 045 | [.NET 10 TensorPrimitives cosine ranking](./045-tensor-cosine-ranking) | _.NET 10 TensorPrimitives Cosine Similarity: Test RAG Ranking Offline (draft - link pending)_ |
+| 046 | [.NET 10 telemetry schema contracts](./046-telemetry-schema-contracts) | _.NET 10 Telemetry Schema URLs: Catch Contract Drift Before Export (draft - link pending)_ |
