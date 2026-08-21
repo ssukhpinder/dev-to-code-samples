@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <LangVersion>14.0</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../CSharp13Binding/CSharp13Binding.csproj" />
+    <ProjectReference Include="../CSharp14Binding/CSharp14Binding.csproj" />
+  </ItemGroup>
+</Project>

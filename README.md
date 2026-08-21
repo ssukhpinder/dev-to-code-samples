@@ -67,3 +67,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 061 | [Claude structured output refusals](./061-claude-structured-refusals) | _Claude Structured Outputs Refusal Handling: Stop Parsing HTTP 200 Refusals (draft - link pending)_ |
 | 062 | [EF Core 10 SQLite decimal ordering](./062-efcore-sqlite-decimal-ordering) | _EF Core 10 SQLite Decimal Ordering: Keep Price Sorts Numeric (draft - link pending)_ |
 | 063 | [.NET 10 DefineConstants MSBuild conditions](./063-msbuild-defineconstants) | _.NET 10 DefineConstants MSBuild Conditions: Fix TFM Items That Silently Disappear (draft - link pending)_ |
+| 064 | [C# 14 span expression trees](./064-span-expression-trees) | _C# 14 Span Overload Expression Trees: Fix Interpreted Contains Failures (draft - link pending)_ |
