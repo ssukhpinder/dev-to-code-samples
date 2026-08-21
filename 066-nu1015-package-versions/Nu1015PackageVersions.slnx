@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="CentralManaged/CentralManaged.csproj" />
+    <Project Path="FixedDirect/FixedDirect.csproj" />
+    <Project Path="FixturePackage/FixturePackage.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="Verifier/Verifier.csproj" />
+  </Folder>
+</Solution>
