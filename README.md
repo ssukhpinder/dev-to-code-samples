@@ -70,3 +70,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 064 | [C# 14 span expression trees](./064-span-expression-trees) | _C# 14 Span Overload Expression Trees: Fix Interpreted Contains Failures (draft - link pending)_ |
 | 065 | [MCP resource not found error](./065-mcp-resource-not-found) | _MCP Resource Not Found Errors: Return -32602, Not Empty Contents (draft - link pending)_ |
 | 066 | [.NET 10 NU1015 package versions](./066-nu1015-package-versions) | _.NET 10 NU1015: Fix PackageReference Without Version Restore Failures (draft - link pending)_ |
+| 067 | [.NET 10 JSON console message](./067-json-console-message) | _.NET 10 JSON Console Logging: Stop Parsing State.Message (draft - link pending)_ |

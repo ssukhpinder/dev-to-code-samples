@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Emitter/Emitter.csproj" />
+  <Project Path="Verifier/Verifier.csproj" />
+</Solution>

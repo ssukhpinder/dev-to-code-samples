@@ -1,0 +1,1 @@
+{"EventId":0,"LogLevel":"Information","Category":"Orders","Message":"Order 42 moved to ready.","State":{"Message":"Order 42 moved to ready.","OrderId":42,"Status":"ready","{OriginalFormat}":"Order {OrderId} moved to {Status}."}}
