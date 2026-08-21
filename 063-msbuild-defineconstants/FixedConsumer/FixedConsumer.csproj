@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup Condition="$([MSBuild]::IsTargetFrameworkCompatible('$(TargetFramework)', 'net9.0'))">
+    <ProjectReference Include="../MarkerLibrary/MarkerLibrary.csproj" />
+  </ItemGroup>
+
+  <Target Name="VerifyFrameworkReference">
+    <Error
+      Condition="'@(ProjectReference)' == ''"
+      Code="DCG002"
+      Text="The compatible TFM ProjectReference was not selected." />
+  </Target>
+</Project>
