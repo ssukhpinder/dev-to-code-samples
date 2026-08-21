@@ -68,3 +68,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 062 | [EF Core 10 SQLite decimal ordering](./062-efcore-sqlite-decimal-ordering) | _EF Core 10 SQLite Decimal Ordering: Keep Price Sorts Numeric (draft - link pending)_ |
 | 063 | [.NET 10 DefineConstants MSBuild conditions](./063-msbuild-defineconstants) | _.NET 10 DefineConstants MSBuild Conditions: Fix TFM Items That Silently Disappear (draft - link pending)_ |
 | 064 | [C# 14 span expression trees](./064-span-expression-trees) | _C# 14 Span Overload Expression Trees: Fix Interpreted Contains Failures (draft - link pending)_ |
+| 065 | [MCP resource not found error](./065-mcp-resource-not-found) | _MCP Resource Not Found Errors: Return -32602, Not Empty Contents (draft - link pending)_ |
