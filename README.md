@@ -65,3 +65,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 059 | [.NET 10 async LINQ package ambiguity](./059-async-enumerable-ambiguity) | _.NET 10 System.Linq.AsyncEnumerable Ambiguity: Fix the Package Collision (draft - link pending)_ |
 | 060 | [.NET 10 Activity PropagationData sampling](./060-activity-propagation-sampling) | _.NET 10 ActivitySamplingResult PropagationData: Why Recorded Turns False (draft - link pending)_ |
 | 061 | [Claude structured output refusals](./061-claude-structured-refusals) | _Claude Structured Outputs Refusal Handling: Stop Parsing HTTP 200 Refusals (draft - link pending)_ |
+| 062 | [EF Core 10 SQLite decimal ordering](./062-efcore-sqlite-decimal-ordering) | _EF Core 10 SQLite Decimal Ordering: Keep Price Sorts Numeric (draft - link pending)_ |
