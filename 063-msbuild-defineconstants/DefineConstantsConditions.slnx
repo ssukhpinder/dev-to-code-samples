@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="BrokenConsumer/BrokenConsumer.csproj" />
+    <Project Path="FixedConsumer/FixedConsumer.csproj" />
+    <Project Path="MarkerLibrary/MarkerLibrary.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="Verifier/Verifier.csproj" />
+  </Folder>
+</Solution>
