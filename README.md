@@ -61,3 +61,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 055 | [ASP.NET Core 10 local redirect policy](./055-local-redirect-policy) | _ASP.NET Core 10 IsLocalUrl: Reject Open Redirects Before Login Handoff (draft - link pending)_ |
 | 056 | [MCP C# SDK array tool outputs](./056-mcp-array-tool-outputs) | _MCP C# SDK Array Tool Outputs: Stop Looking for a `result` Wrapper (draft - link pending)_ |
 | 057 | [.NET 10 configuration null binding](./057-configuration-null-binding) | _.NET 10 Configuration Null Binding: Stop Explicit Null from Becoming Zero (draft - link pending)_ |
+| 058 | [.NET 10 JSON source-generated cycles](./058-json-sourcegen-reference-handler) | _.NET 10 JSON Source Generation ReferenceHandler: Round-Trip Cycles Without Reflection (draft - link pending)_ |
