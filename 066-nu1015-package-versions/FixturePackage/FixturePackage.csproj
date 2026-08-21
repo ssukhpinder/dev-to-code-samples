@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <PackageId>Demo.Greeting</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>DEV.to sample</Authors>
+    <Description>Generated local fixture for the NU1015 sample.</Description>
+  </PropertyGroup>
+</Project>
