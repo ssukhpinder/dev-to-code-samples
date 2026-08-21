@@ -63,3 +63,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 057 | [.NET 10 configuration null binding](./057-configuration-null-binding) | _.NET 10 Configuration Null Binding: Stop Explicit Null from Becoming Zero (draft - link pending)_ |
 | 058 | [.NET 10 JSON source-generated cycles](./058-json-sourcegen-reference-handler) | _.NET 10 JSON Source Generation ReferenceHandler: Round-Trip Cycles Without Reflection (draft - link pending)_ |
 | 059 | [.NET 10 async LINQ package ambiguity](./059-async-enumerable-ambiguity) | _.NET 10 System.Linq.AsyncEnumerable Ambiguity: Fix the Package Collision (draft - link pending)_ |
+| 060 | [.NET 10 Activity PropagationData sampling](./060-activity-propagation-sampling) | _.NET 10 ActivitySamplingResult PropagationData: Why Recorded Turns False (draft - link pending)_ |
