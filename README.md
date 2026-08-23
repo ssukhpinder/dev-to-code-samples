@@ -71,3 +71,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 065 | [MCP resource not found error](./065-mcp-resource-not-found) | _MCP Resource Not Found Errors: Return -32602, Not Empty Contents (draft - link pending)_ |
 | 066 | [.NET 10 NU1015 package versions](./066-nu1015-package-versions) | _.NET 10 NU1015: Fix PackageReference Without Version Restore Failures (draft - link pending)_ |
 | 067 | [.NET 10 JSON console message](./067-json-console-message) | _.NET 10 JSON Console Logging: Stop Parsing State.Message (draft - link pending)_ |
+| 068 | [.NET 10 ValidationContext AOT](./068-validationcontext-aot) | _.NET 10 ValidationContext AOT-Safe Constructor: Remove IL2026 Without Suppression (draft - link pending)_ |

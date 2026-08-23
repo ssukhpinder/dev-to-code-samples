@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AotSafeValidation/AotSafeValidation.csproj" />
+  <Project Path="Verifier/Verifier.csproj" />
+</Solution>
