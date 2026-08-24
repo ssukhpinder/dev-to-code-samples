@@ -73,3 +73,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 067 | [.NET 10 JSON console message](./067-json-console-message) | _.NET 10 JSON Console Logging: Stop Parsing State.Message (draft - link pending)_ |
 | 068 | [.NET 10 ValidationContext AOT](./068-validationcontext-aot) | _.NET 10 ValidationContext AOT-Safe Constructor: Remove IL2026 Without Suppression (draft - link pending)_ |
 | 069 | [EF Core 10 SQLite ROWID keys](./069-efcore-sqlite-rowid) | _EF Core 10 Disable SQLite AUTOINCREMENT: Keep Database-Generated Keys (draft - link pending)_ |
+| 070 | [.NET 10 TarEntry metadata defaults](./070-tar-metadata-defaults) | _.NET 10 TarEntry atime/ctime Defaults: Restore Missing Archive Metadata (draft - link pending)_ |
