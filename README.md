@@ -75,3 +75,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 069 | [EF Core 10 SQLite ROWID keys](./069-efcore-sqlite-rowid) | _EF Core 10 Disable SQLite AUTOINCREMENT: Keep Database-Generated Keys (draft - link pending)_ |
 | 070 | [.NET 10 TarEntry metadata defaults](./070-tar-metadata-defaults) | _.NET 10 TarEntry atime/ctime Defaults: Restore Missing Archive Metadata (draft - link pending)_ |
 | 071 | [.NET 10 RID-specific tool packaging](./071-rid-tool-packaging) | _.NET 10 RID-Specific Tool Packaging: Stop dotnet pack from Multiplying Artifacts (draft - link pending)_ |
+| 072 | [.NET 10 XmlSerializer obsolete properties](./072-xmlserializer-obsolete) | _.NET 10 XmlSerializer Obsolete Properties: Stop Silent XML Contract Drift (draft - link pending)_ |
