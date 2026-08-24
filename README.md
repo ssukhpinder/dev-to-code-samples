@@ -80,3 +80,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 074 | [ASP.NET Core 10 endpoint action metadata](./074-actioncontext-endpoint-metadata) | _ASP.NET Core 10 IActionContextAccessor Replacement: Keep Action Metadata Without ASPDEPR006 (draft - link pending)_ |
 | 075 | [ASP.NET Core 10 nullable form binding](./075-fromform-empty-strings) | _ASP.NET Core 10 FromForm Empty Strings: Bind Blank Optional Values as Null (draft - link pending)_ |
 | 076 | [MCP OAuth issuer validation](./076-mcp-oauth-iss-validation) | _MCP OAuth iss Validation: Reject Authorization-Server Mix-Ups Before Token Exchange (draft - link pending)_ |
+| 077 | [ASP.NET Core 10 ASPDEPR004 TestServer migration](./077-aspdepr004-testserver) | _ASP.NET Core 10 ASPDEPR004: Migrate TestServer off WebHostBuilder (draft - link pending)_ |
