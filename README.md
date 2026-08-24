@@ -77,3 +77,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 071 | [.NET 10 RID-specific tool packaging](./071-rid-tool-packaging) | _.NET 10 RID-Specific Tool Packaging: Stop dotnet pack from Multiplying Artifacts (draft - link pending)_ |
 | 072 | [.NET 10 XmlSerializer obsolete properties](./072-xmlserializer-obsolete) | _.NET 10 XmlSerializer Obsolete Properties: Stop Silent XML Contract Drift (draft - link pending)_ |
 | 073 | [.NET 10 BufferedStream explicit flush](./073-bufferedstream-explicit-flush) | _.NET 10 BufferedStream WriteByte: Flush Full Buffers Explicitly (draft - link pending)_ |
+| 074 | [ASP.NET Core 10 endpoint action metadata](./074-actioncontext-endpoint-metadata) | _ASP.NET Core 10 IActionContextAccessor Replacement: Keep Action Metadata Without ASPDEPR006 (draft - link pending)_ |
