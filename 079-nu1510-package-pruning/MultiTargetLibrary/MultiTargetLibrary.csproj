@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net10.0</TargetFrameworks>
+    <PackageId>Nu1510.MultiTargetFixture</PackageId>
+    <Version>1.0.0</Version>
+    <Description>Fixture package for verifying target-specific package pruning.</Description>
+  </PropertyGroup>
+
+  <ItemGroup Condition="'$(TargetFramework)' == 'netstandard2.0'">
+    <PackageReference Include="System.Text.Json" Version="10.0.11" />
+  </ItemGroup>
+</Project>
