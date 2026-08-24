@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="Tool/RidPackingDemo.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="Verifier/PackageVerifier.csproj" />
+  </Folder>
+</Solution>
