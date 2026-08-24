@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="FixedNet10/FixedNet10.csproj" />
+    <Project Path="MultiTargetLibrary/MultiTargetLibrary.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="Verifier/Verifier.csproj" />
+  </Folder>
+</Solution>
