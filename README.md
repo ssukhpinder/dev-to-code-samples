@@ -83,3 +83,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 077 | [ASP.NET Core 10 ASPDEPR004 TestServer migration](./077-aspdepr004-testserver) | _ASP.NET Core 10 ASPDEPR004: Migrate TestServer off WebHostBuilder (draft - link pending)_ |
 | 078 | [MCP clientInfo authorization](./078-mcp-clientinfo-authorization) | _MCP clientInfo Spoofing: Keep Self-Reported Names Out of Authorization (draft - link pending)_ |
 | 079 | [.NET 10 NU1510 package pruning](./079-nu1510-package-pruning) | _.NET 10 NU1510 Package Pruning: Fix CI Without Breaking Legacy Targets (draft - link pending)_ |
+| 080 | [MCP empty-cursor pagination](./080-mcp-empty-cursor-pagination) | _MCP Pagination Empty `nextCursor`: Don't Stop After Page One (draft - link pending)_ |
