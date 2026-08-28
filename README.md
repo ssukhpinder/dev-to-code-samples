@@ -87,3 +87,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 081 | [Anthropic Skills API delete guard](./081-anthropic-skills-delete-guard) | _Anthropic Skills API Delete Migration: Block Accidental Cascade Deletes (draft - link pending)_ |
 | 082 | [Anthropic Compliance transcript pagination](./082-anthropic-compliance-pagination) | _Anthropic Compliance API Pagination: Don't Stop on a Short Transcript Page (draft - link pending)_ |
 | 083 | [Anthropic Python SDK HTTPX2 migration](./083-anthropic-httpx2-migration) | _Anthropic Python SDK HTTPX2 Migration: Keep Mocks Watching Requests (draft - link pending)_ |
+| 084 | [Claude API workspace verification](./084-claude-workspace-verification) | _Claude API Workspace Verification: Catch Misrouted Requests Before Attribution (draft - link pending)_ |
