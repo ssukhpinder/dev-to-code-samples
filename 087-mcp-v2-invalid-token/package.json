@@ -1,0 +1,25 @@
+{
+  "name": "mcp-v2-invalid-token",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Offline verification of MCP TypeScript SDK v2 bearer-token error mapping",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "format:check": "prettier --check README.md package.json tsconfig.json src test",
+    "typecheck": "tsc --noEmit --project tsconfig.json",
+    "build": "tsc --project tsconfig.json",
+    "verify": "npm run build --silent && node dist/src/invalid-token-check.js",
+    "test": "npm run build --silent && node --test dist/test/invalid-token-check.test.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/server": "2.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.19.43",
+    "prettier": "3.9.6",
+    "typescript": "6.0.3"
+  }
+}
