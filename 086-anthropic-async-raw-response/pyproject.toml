@@ -1,0 +1,9 @@
+[project]
+name = "anthropic-async-raw-response"
+version = "0.1.0"
+description = "Offline verification of Anthropic Python SDK v1 async raw-response parsing"
+requires-python = ">=3.10"
+dependencies = ["anthropic>=1,<2"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
