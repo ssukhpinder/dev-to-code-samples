@@ -90,3 +90,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 084 | [Claude API workspace verification](./084-claude-workspace-verification) | _Claude API Workspace Verification: Catch Misrouted Requests Before Attribution (draft - link pending)_ |
 | 085 | [Claude browser toolset results](./085-claude-toolset-results) | _Claude Browser Toolset Results: Echo toolset_name Before the Next Request (draft - link pending)_ |
 | 086 | [Anthropic Python SDK async raw response](./086-anthropic-async-raw-response) | _Anthropic Python SDK Async Raw Response: Await parse() After v1 (draft - link pending)_ |
+| 087 | [MCP TypeScript SDK v2 invalid-token migration](./087-mcp-v2-invalid-token) | _MCP TypeScript SDK v2 Invalid Token Migration: Keep 401 from Becoming 500 (draft - link pending)_ |
