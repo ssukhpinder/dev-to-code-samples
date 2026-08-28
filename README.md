@@ -85,3 +85,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 079 | [.NET 10 NU1510 package pruning](./079-nu1510-package-pruning) | _.NET 10 NU1510 Package Pruning: Fix CI Without Breaking Legacy Targets (draft - link pending)_ |
 | 080 | [MCP empty-cursor pagination](./080-mcp-empty-cursor-pagination) | _MCP Pagination Empty `nextCursor`: Don't Stop After Page One (draft - link pending)_ |
 | 081 | [Anthropic Skills API delete guard](./081-anthropic-skills-delete-guard) | _Anthropic Skills API Delete Migration: Block Accidental Cascade Deletes (draft - link pending)_ |
+| 082 | [Anthropic Compliance transcript pagination](./082-anthropic-compliance-pagination) | _Anthropic Compliance API Pagination: Don't Stop on a Short Transcript Page (draft - link pending)_ |
