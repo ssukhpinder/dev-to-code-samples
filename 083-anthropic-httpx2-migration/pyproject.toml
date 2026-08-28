@@ -1,0 +1,9 @@
+[project]
+name = "anthropic-httpx2-migration"
+version = "0.1.0"
+description = "Offline verification of an Anthropic Python SDK HTTPX2 migration"
+requires-python = ">=3.10"
+dependencies = ["anthropic>=1,<2"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
