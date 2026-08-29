@@ -93,3 +93,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 087 | [MCP TypeScript SDK v2 invalid-token migration](./087-mcp-v2-invalid-token) | _MCP TypeScript SDK v2 Invalid Token Migration: Keep 401 from Becoming 500 (draft - link pending)_ |
 | 088 | [Claude Files ID reconciliation](./088-claude-files-reconciliation) | _Claude Files API ids[] Reconciliation: Catch Silently Missing File IDs (draft - link pending)_ |
 | 089 | [Anthropic Admin API group roles null](./089-anthropic-group-roles-null) | _Anthropic Admin API Group Roles null: Stop Degraded Reads from Passing Audits (draft - link pending)_ |
+| 090 | [MCP C# per-request client capabilities](./090-mcp-request-capabilities) | _MCP C# Per-Request Client Capabilities: Read the Request, Not the Server (draft - link pending)_ |
