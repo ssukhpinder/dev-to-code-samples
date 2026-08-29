@@ -101,3 +101,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 095 | [.NET 10.0.11 self-contained runtime patch](./095-self-contained-runtime-patch) | _.NET 10.0.11 Self-Contained Deployment: Prove the Security Patch Shipped (draft - link pending)_ |
 | 096 | [OpenAI Responses API chained instructions](./096-openai-chained-instructions) | _OpenAI Responses API previous_response_id Instructions: Repeat Policy on Every Turn (draft - link pending)_ |
 | 097 | [MCP TypeScript SDK v2 in-process tests](./097-mcp-modern-inprocess-tests) | _MCP TypeScript SDK v2 In-Process Tests: Stop Exercising Only the Legacy Era (draft - link pending)_ |
+| 098 | [OpenAI Responses API user field migration](./098-openai-user-field-migration) | _OpenAI Responses API `user` Migration: Split Safety from Prompt Caching (draft - link pending)_ |
