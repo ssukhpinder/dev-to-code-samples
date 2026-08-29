@@ -98,3 +98,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 092 | [MCP C# DeferChangedEvents batching](./092-mcp-defer-changed-events) | _MCP C# DeferChangedEvents: Batch Tool Updates into One Change Event (draft - link pending)_ |
 | 093 | [MCP Python SDK v2 sync handler threads](./093-mcp-python-sync-tools) | _MCP Python SDK v2 Sync Handler Worker Threads: Fix "No Running Event Loop" (draft - link pending)_ |
 | 094 | [.NET 10 W3C trace-context verifier](./094-dotnet-w3c-propagator) | _.NET 10 W3C Trace Context: Catch Correlation-Context Breakage Before Production (draft - link pending)_ |
+| 095 | [.NET 10.0.11 self-contained runtime patch](./095-self-contained-runtime-patch) | _.NET 10.0.11 Self-Contained Deployment: Prove the Security Patch Shipped (draft - link pending)_ |
