@@ -96,3 +96,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 090 | [MCP C# per-request client capabilities](./090-mcp-request-capabilities) | _MCP C# Per-Request Client Capabilities: Read the Request, Not the Server (draft - link pending)_ |
 | 091 | [Anthropic Python SDK Bedrock region](./091-anthropic-bedrock-region) | _Anthropic Python SDK Bedrock Region: Fix the v1 ValueError Before Your First Request (draft - link pending)_ |
 | 092 | [MCP C# DeferChangedEvents batching](./092-mcp-defer-changed-events) | _MCP C# DeferChangedEvents: Batch Tool Updates into One Change Event (draft - link pending)_ |
+| 093 | [MCP Python SDK v2 sync handler threads](./093-mcp-python-sync-tools) | _MCP Python SDK v2 Sync Handler Worker Threads: Fix "No Running Event Loop" (draft - link pending)_ |
