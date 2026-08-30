@@ -109,3 +109,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 103 | [MSTest 4.3 deep structural equivalence](./103-mstest-deep-equivalence) | _MSTest 4.3 Assert.AreEquivalent: Catch Nested DTO Drift Without JSON Snapshots (draft - link pending)_ |
 | 104 | [.NET 10 JSON metadata conflicts](./104-json-metadata-conflicts) | _.NET 10 System.Text.Json Metadata Conflicts: Catch Broken Polymorphism Early (draft - link pending)_ |
 | 105 | [.NET 10 MakeGenericSignatureType validation](./105-makegeneric-signature-validation) | _.NET 10 MakeGenericSignatureType Validation: Guard Non-Generic Reflection Inputs (draft - link pending)_ |
+| 106 | [MCP Python SDK 2.1 tool error channels](./106-mcp-python-tool-errors) | _MCP Python SDK 2.1 ToolError: Keep Recoverable Failures Visible to the Model (draft - link pending)_ |
