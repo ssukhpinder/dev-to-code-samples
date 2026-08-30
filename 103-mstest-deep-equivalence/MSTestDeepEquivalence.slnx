@@ -1,0 +1,3 @@
+<Solution>
+  <Project Path="tests/OrderContract.Tests/OrderContract.Tests.csproj" />
+</Solution>
