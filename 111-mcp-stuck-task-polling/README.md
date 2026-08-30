@@ -35,8 +35,8 @@ Expected verifier output:
 PASS: stuck poll guard raised McpException
 PASS: repeated input key was presented once
 PASS: threshold 3 stopped polling after 4 tasks/get calls
-PASS: input response was sent once
-PASS: best-effort tasks/cancel was sent once
+PASS: declined approval response targeted task-1 once
+PASS: best-effort tasks/cancel targeted task-1 once
 PASS: repeated output was byte-for-byte deterministic
 Summary: 6/6 passed
 ```

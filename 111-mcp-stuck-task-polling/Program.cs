@@ -50,8 +50,12 @@ Verify(elicitationCalls == 1, "repeated input key was presented once");
 Verify(
     server.GetCalls == StuckPollLimit + 1,
     $"threshold {StuckPollLimit} stopped polling after {server.GetCalls} tasks/get calls");
-Verify(server.UpdateCalls == 1, "input response was sent once");
-Verify(server.CancelCalls == 1, "best-effort tasks/cancel was sent once");
+Verify(
+    server.UpdateCalls == 1 && server.UpdateEnvelopeValid,
+    "declined approval response targeted task-1 once");
+Verify(
+    server.CancelCalls == 1 && server.CancelEnvelopeValid,
+    "best-effort tasks/cancel targeted task-1 once");
 
 static void Verify(bool condition, string message)
 {
@@ -80,10 +84,12 @@ sealed class StuckTaskTransport : ITransport
         Channel.CreateUnbounded<JsonRpcMessage>();
 
     public ChannelReader<JsonRpcMessage> MessageReader => _messages.Reader;
-    public string SessionId => "session-1";
+    public string? SessionId => null;
     public int GetCalls { get; private set; }
     public int UpdateCalls { get; private set; }
     public int CancelCalls { get; private set; }
+    public bool UpdateEnvelopeValid { get; private set; }
+    public bool CancelEnvelopeValid { get; private set; }
 
     public Task SendMessageAsync(
         JsonRpcMessage message,
@@ -99,8 +105,8 @@ sealed class StuckTaskTransport : ITransport
             "server/discover" => Discover(),
             "tools/call" => CreateTask(),
             "tasks/get" => GetTask(),
-            "tasks/update" => UpdateTask(),
-            "tasks/cancel" => CancelTask(),
+            "tasks/update" => UpdateTask(request),
+            "tasks/cancel" => CancelTask(request),
             _ => throw new InvalidOperationException(
                 $"Unexpected method: {request.Method}"),
         };
@@ -170,21 +176,39 @@ sealed class StuckTaskTransport : ITransport
             McpTasksJsonContext.Default.InputRequiredTaskResult);
     }
 
-    private JsonNode UpdateTask()
+    private JsonNode UpdateTask(JsonRpcRequest request)
     {
         UpdateCalls++;
+        using JsonDocument parameters = ParseParameters(request);
+        JsonElement root = parameters.RootElement;
+        UpdateEnvelopeValid =
+            root.GetProperty("taskId").GetString() == "task-1" &&
+            root.GetProperty("inputResponses")
+                .GetProperty("approval")
+                .GetProperty("action")
+                .GetString() == "decline";
+
         return Serialize(
             new UpdateTaskResult(),
             McpTasksJsonContext.Default.UpdateTaskResult);
     }
 
-    private JsonNode CancelTask()
+    private JsonNode CancelTask(JsonRpcRequest request)
     {
         CancelCalls++;
+        using JsonDocument parameters = ParseParameters(request);
+        CancelEnvelopeValid =
+            parameters.RootElement.GetProperty("taskId").GetString() == "task-1";
+
         return Serialize(
             new CancelTaskResult(),
             McpTasksJsonContext.Default.CancelTaskResult);
     }
+
+    private static JsonDocument ParseParameters(JsonRpcRequest request) =>
+        JsonDocument.Parse(
+            request.Params?.ToString()
+                ?? throw new InvalidOperationException("Request parameters were missing."));
 
     private static JsonNode Serialize<T>(
         T value,
