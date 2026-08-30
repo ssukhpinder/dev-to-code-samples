@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "tests": [
+    {
+      "type": {
+        "namespace": "Inventory.Tests",
+        "typeName": "InventoryTests",
+        "methodName": "Checkout_contract_is_discoverable"
+      },
+      "traits": [
+        {
+          "key": "contract",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "type": {
+        "namespace": "Inventory.Tests",
+        "typeName": "InventoryTests",
+        "methodName": "Refund_contract_is_discoverable"
+      },
+      "traits": [
+        {
+          "key": "contract",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "type": {
+        "namespace": "Inventory.Tests",
+        "typeName": "InventoryTests",
+        "methodName": "Health_check_is_discoverable"
+      },
+      "traits": [
+        {
+          "key": "smoke",
+          "value": ""
+        }
+      ]
+    }
+  ]
+}
