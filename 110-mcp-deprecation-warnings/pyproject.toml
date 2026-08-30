@@ -1,0 +1,33 @@
+[project]
+name = "mcp-deprecation-warnings"
+version = "0.1.0"
+description = "Verify MCP Python SDK deprecation-warning behavior under strict test settings"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp==2.1.1",
+]
+
+[dependency-groups]
+dev = [
+    "mypy==2.3.1",
+    "pip-audit==2.10.1",
+    "pytest==9.1.1",
+    "ruff==0.16.5",
+]
+
+[tool.pytest.ini_options]
+filterwarnings = [
+    "error",
+    "default::mcp.MCPDeprecationWarning",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["B", "E", "F", "I", "SIM", "UP"]
+
+[tool.mypy]
+python_version = "3.10"
+strict = true
