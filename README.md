@@ -108,3 +108,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 102 | [Microsoft.Testing.Platform 2.3 JSON test discovery](./102-mtp-json-test-discovery) | _Microsoft.Testing.Platform 2.3 JSON Test Discovery: Catch Missing Tests Before CI Runs (draft - link pending)_ |
 | 103 | [MSTest 4.3 deep structural equivalence](./103-mstest-deep-equivalence) | _MSTest 4.3 Assert.AreEquivalent: Catch Nested DTO Drift Without JSON Snapshots (draft - link pending)_ |
 | 104 | [.NET 10 JSON metadata conflicts](./104-json-metadata-conflicts) | _.NET 10 System.Text.Json Metadata Conflicts: Catch Broken Polymorphism Early (draft - link pending)_ |
+| 105 | [.NET 10 MakeGenericSignatureType validation](./105-makegeneric-signature-validation) | _.NET 10 MakeGenericSignatureType Validation: Guard Non-Generic Reflection Inputs (draft - link pending)_ |
