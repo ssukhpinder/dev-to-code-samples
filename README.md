@@ -113,3 +113,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 107 | [MCP Python SDK extension method collisions](./107-mcp-extension-collisions) | _MCP Python SDK Extension Method Collisions: Fail Before the Server Starts (draft - link pending)_ |
 | 108 | [MCP TypeScript Content-Type validation](./108-mcp-content-type-validation) | _MCP TypeScript SDK v2 Content-Type Validation: Reject Fake JSON at 415 (draft - link pending)_ |
 | 109 | [.NET 10 LDAP VLV validation](./109-ldap-vlv-validation) | _.NET 10 LDAP VlvRequestControl Validation: Stop Sending Replacement Bytes (draft - link pending)_ |
+| 111 | [MCP C# task polling stuck-loop guard](./111-mcp-stuck-task-polling) | _MCP C# Task Polling: Stop Infinite `input_required` Loops (draft - link pending)_ |
