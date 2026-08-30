@@ -104,3 +104,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 098 | [OpenAI Responses API user field migration](./098-openai-user-field-migration) | _OpenAI Responses API `user` Migration: Split Safety from Prompt Caching (draft - link pending)_ |
 | 099 | [Anthropic Python SDK v1 sampling migration](./099-anthropic-sampling-migration) | _Anthropic Python SDK v1 Sampling Migration: Remove `temperature` Before Runtime (draft - link pending)_ |
 | 100 | [xUnit 4 strict Assert.All](./100-xunit-strict-all) | _xUnit 4 Assert.All `throwIfEmpty`: Stop Empty Queries from Passing (draft - link pending)_ |
+| 101 | [.NET 10 generic math shift masking](./101-generic-math-shift-masking) | _.NET 10 Generic Math Shift Masking: Catch Overshifts That Now Wrap (draft - link pending)_ |
