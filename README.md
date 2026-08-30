@@ -106,3 +106,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 100 | [xUnit 4 strict Assert.All](./100-xunit-strict-all) | _xUnit 4 Assert.All `throwIfEmpty`: Stop Empty Queries from Passing (draft - link pending)_ |
 | 101 | [.NET 10 generic math shift masking](./101-generic-math-shift-masking) | _.NET 10 Generic Math Shift Masking: Catch Overshifts That Now Wrap (draft - link pending)_ |
 | 102 | [Microsoft.Testing.Platform 2.3 JSON test discovery](./102-mtp-json-test-discovery) | _Microsoft.Testing.Platform 2.3 JSON Test Discovery: Catch Missing Tests Before CI Runs (draft - link pending)_ |
+| 103 | [MSTest 4.3 deep structural equivalence](./103-mstest-deep-equivalence) | _MSTest 4.3 Assert.AreEquivalent: Catch Nested DTO Drift Without JSON Snapshots (draft - link pending)_ |
