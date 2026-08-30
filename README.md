@@ -110,3 +110,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 104 | [.NET 10 JSON metadata conflicts](./104-json-metadata-conflicts) | _.NET 10 System.Text.Json Metadata Conflicts: Catch Broken Polymorphism Early (draft - link pending)_ |
 | 105 | [.NET 10 MakeGenericSignatureType validation](./105-makegeneric-signature-validation) | _.NET 10 MakeGenericSignatureType Validation: Guard Non-Generic Reflection Inputs (draft - link pending)_ |
 | 106 | [MCP Python SDK 2.1 tool error channels](./106-mcp-python-tool-errors) | _MCP Python SDK 2.1 ToolError: Keep Recoverable Failures Visible to the Model (draft - link pending)_ |
+| 107 | [MCP Python SDK extension method collisions](./107-mcp-extension-collisions) | _MCP Python SDK Extension Method Collisions: Fail Before the Server Starts (draft - link pending)_ |
