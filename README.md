@@ -116,3 +116,4 @@ Runnable code samples for my [dev.to articles](https://dev.to/ssukhpinder). One 
 | 110 | [MCP Python SDK deprecation warning policy](./110-mcp-deprecation-warnings) | _MCP Python SDK Deprecation Warnings: Keep CI from Turning Them into Tool Errors (draft - link pending)_ |
 | 111 | [MCP C# task polling stuck-loop guard](./111-mcp-stuck-task-polling) | _MCP C# Task Polling: Stop Infinite `input_required` Loops (draft - link pending)_ |
 | 112 | [.NET 10 InlineArray explicit-size migration](./112-inlinearray-explicit-size) | _.NET 10 InlineArray Explicit Size: Fix TypeLoadException with a Wrapper (draft - link pending)_ |
+| 113 | [OpenAI API-key usage and cost reconciliation](./113-openai-api-key-usage-costs) | _OpenAI Usage API `api_key_id`: Reconcile Tokens and Costs by Key (draft - link pending)_ |
